@@ -2,8 +2,7 @@
   <h1 align="center">Anna Run - Human Computer Interaction Project</h1>
 </code>
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/https://github.com/anmolpant/HCI-Project?logo=github&style=social)](https://github.com/anmolpant/) [![GitHub last commit](https://img.shields.io/github/last-commit/https://github.com/anmolpant/HCI-Project?style=social&logo=git)](https://github.com/anmolpant/) [![GitHub stars](https://img.shields.io/github/stars/https://github.com/anmolpant/HCI-Project?style=social)](https://github.com/https://github.com/anmolpant/HCI-Project/stargazers) [![GitHub forks](https://img.shields.io/github/forks/https://github.com/anmolpant/HCI-Project?style=social&logo=git)](https://github.com/https://github.com/anmolpant/HCI-Project/network)
-
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/anmolpant/HCI-Project?logo=github&style=social)](https://github.com/anmolpant/) [![GitHub last commit](https://img.shields.io/github/last-commit/anmolpant/HCI-Project?style=social&logo=git)](https://github.com/anmolpant/) [![GitHub stars](https://img.shields.io/github/stars/anmolpant/HCI-Project?style=social)](https://github.com/anmolpant/HCI-Project/stargazers) [![GitHub forks](https://img.shields.io/github/forks/anmolpant/HCI-Project?style=social&logo=git)](https://github.com/anmolpant/HCI-Project/network)
 <p align="center">
 > A VIT themed maze runner game.<br>
 > Run and escape from Anna in pursuit. Drink coffee on the way and gain powerups to hide your identity.<br>
