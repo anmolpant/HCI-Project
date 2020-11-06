@@ -2,12 +2,12 @@
   <h1 align="center">Anna Run - Human Computer Interaction Project</h1>
 </code>
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/anmolpant/https://github.com/anmolpant/HCI-Project?logo=github&style=social)](https://github.com/anmolpant/) [![GitHub last commit](https://img.shields.io/github/last-commit/anmolpant/https://github.com/anmolpant/HCI-Project?style=social&logo=git)](https://github.com/anmolpant/) [![GitHub stars](https://img.shields.io/github/stars/anmolpant/https://github.com/anmolpant/HCI-Project?style=social)](https://github.com/anmolpant/https://github.com/anmolpant/HCI-Project/stargazers) [![GitHub forks](https://img.shields.io/github/forks/anmolpant/https://github.com/anmolpant/HCI-Project?style=social&logo=git)](https://github.com/anmolpant/https://github.com/anmolpant/HCI-Project/network)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/https://github.com/anmolpant/HCI-Project?logo=github&style=social)](https://github.com/anmolpant/) [![GitHub last commit](https://img.shields.io/github/last-commit/https://github.com/anmolpant/HCI-Project?style=social&logo=git)](https://github.com/anmolpant/) [![GitHub stars](https://img.shields.io/github/stars/https://github.com/anmolpant/HCI-Project?style=social)](https://github.com/https://github.com/anmolpant/HCI-Project/stargazers) [![GitHub forks](https://img.shields.io/github/forks/https://github.com/anmolpant/HCI-Project?style=social&logo=git)](https://github.com/https://github.com/anmolpant/HCI-Project/network)
 
 <p align="center">
-> A VIT themed maze runner game.
-> Run and escape from Anna in pursuit. Drink coffee on the way and gain powerups to hide your identity.
-> Do you have the skills to escape out of the campus?
+> A VIT themed maze runner game.<br>
+> Run and escape from Anna in pursuit. Drink coffee on the way and gain powerups to hide your identity.<br>
+> Do you have the skills to escape out of the campus?<br>
 
 Anna run, a VIT themed escape and runner game, stemmed from an idea of creating a game development based project, for the edification of our fellow VITians. The player has to try and escape the Vellore Institute of Technology based maze with red tag annas being in close pursuit. The game map would be based on our campus and the player must collect all the rewards before being caught by the red tags to progress to the next level. 
 The following has been submitted and developed as Project Work for the Human Computer Interaction (CSE4015) course in the duration of Fall Semester 2020-21.
