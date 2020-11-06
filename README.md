@@ -18,10 +18,21 @@ The following has been submitted and developed as Project Work for the Human Com
 
 ## Instructions to run
 
+#### 1. Clone the repository
 ```
-Clone the repo
-Install npm packages (npm install)
-Start (npm start)
+git clone https://github.com/anmolpant/HCI-Project.git
+```
+#### 2. Install packages
+```
+npm install
+```
+#### 3. Start application
+```
+npm start
+```
+or
+```
+docker-compose up
 ```
 
 ## Contributors
