@@ -1,6 +1,6 @@
 {
   "short_name": "AnnaRun",
-  "name": "VIT themed pacman like game made by CodeChef VIT",
+  "name": "VIT themed PAC-MAN like game made for HCI Project",
   "icons": [
     {
       "src": "favicon.png",
